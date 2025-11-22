@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="DartRemoteDebugConfigurationType" factoryName="Dart Remote Debug" singleton="false">
+    <option name="dartProjectPath" value="$PROJECT_DIR$/gestion_contact" />
+    <method v="2" />
+  </configuration>
+</component>
